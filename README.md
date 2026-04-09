@@ -1,8 +1,12 @@
-# CV_hubmap_segmenation
-Semantic segmenation of kidney tissues to discriminate blood vessels and glomerulus
+# HuBMAP - Hacking the Human Vasculature
+*Semantic segmenation of kidney tissues to discriminate blood vessels and glomerulus.*
+
+*Kaggle source: https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature*
+
+---
 
 In this kaggle dataset I made several experiments to achieve the competition goals.
-Each notebook differs in the following detials:
+Each notebook differs in the following details:
 
 
 1. Model comparison notebook of UNet, UNeXt, Swin (comparison-notebook.ipynb):
